@@ -33,3 +33,4 @@ debug.log
 /dist/
 /lib
 server.exe
+/presets.json
